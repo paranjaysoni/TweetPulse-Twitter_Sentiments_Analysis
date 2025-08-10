@@ -1,19 +1,24 @@
 # 🐦 TweetPulse – Twitter Sentiment Analysis App
 
-**TweetPulse** is a machine learning–powered web app that predicts the sentiment of tweets in real time.  
-It classifies tweets into **Positive**, **Negative**, **Neutral**, or **Irrelevant** using NLP preprocessing and a tuned Logistic Regression model.
+**TweetPulse** is a powerful Twitter sentiment analysis application that classifies tweets into four categories: Irrelevant, Negative, Neutral, and Positive.  
+It leverages advanced NLP preprocessing and machine learning models to provide accurate sentiment predictions in real-time via an easy-to-use Streamlit web interface.
 
 ---
 
-## 🔧 Tech Stack
+## 🔗 Live Demo  
+Try the app live here:  
+[https://tweetpulse-twitter-sentiments-analysis.onrender.com](https://tweetpulse-twitter-sentiments-analysis.onrender.com)
 
-- **Python** – Core logic and preprocessing  
-- **Streamlit** – Interactive web app interface  
-- **Scikit-learn** – Model training and predictions  
-- **NLTK** – Stopwords removal & stemming  
-- **Pandas & NumPy** – Data manipulation  
-- **Pickle** – Model and data storage  
-- **Hugging Face** – Model hosting for fast loading  
+---
+
+## 🛠️ Tech Stack
+
+- **Python** – Core logic and data processing  
+- **Streamlit** – Interactive web application framework  
+- **NLTK** – Natural Language Toolkit for text preprocessing  
+- **Scikit-learn** – Machine learning algorithms and vectorization  
+- **Requests** – For loading model files from Hugging Face  
+- **Hugging Face Hub** – Hosting trained models and vectorizers  
 
 ---
 
