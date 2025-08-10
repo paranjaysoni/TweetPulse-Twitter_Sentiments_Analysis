@@ -7,7 +7,7 @@ It leverages advanced NLP preprocessing and machine learning models to provide a
 
 ## 🔗 Live Demo  
 Try the app live here:  
-[https://tweetpulse-twitter-sentiments-analysis.onrender.com](https://tweetpulse-twitter-sentiments-analysis.onrender.com)
+[Click here to try the live app](https://tweetpulse-twitter-sentiments-analysis.onrender.com)
 
 ---
 
